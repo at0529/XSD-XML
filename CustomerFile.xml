@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns="http://www.example.org/Customer">
+    <customerId>1</customerId>
+    <name>Akhil</name>
+    <dateOfBirth>1995-06-29-05:00</dateOfBirth>
+    <annualSalary>78324.0</annualSalary>
+    <address>
+        <streetName>2527 Louise Street</streetName>
+        <city>Denton</city>
+        <state>TX</state>
+        <pinCode>76201</pinCode>
+    </address>
+    <address>
+        <streetName>2126 Stella Street</streetName>
+        <city>Denton</city>
+        <state>TX</state>
+        <pinCode>76201</pinCode>
+    </address>
+    <payment>
+        <cardNumber>48723635</cardNumber>
+        <cardName>Master</cardName>
+        <dateFrom>2016-06-29-05:00</dateFrom>
+        <dateTo>2012-06-29-05:00</dateTo>
+        <card>CREDIT CARD</card>
+    </payment>
+</customer>
